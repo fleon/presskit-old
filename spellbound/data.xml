@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Spellbound</title>
+
+  <website>https://steamcommunity.com/sharedfiles/filedetails/?id=493588349</website>
+
+  <release-dates>
+    <release-date>Coming Soon</release-date>
+  </release-dates>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>iOS</name>
+    </platform>
+    <platform>
+      <name>Android</name>
+    </platform>
+    <platform>
+      <name>PC</name>
+    </platform>
+    <platform>
+      <name>Mac</name>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <value>$4.99</value>
+    </price>
+  </prices>
+
+  <description>
+    Spellbound is a top-down tile-based adventure game that is a mixture of The Legend of Zelda style adventure and Scrabble style word battle with various interactive twists and turns that can engage the player in adventures for hours.
+
+The basic concept is simple: You have two islands you need to connect. You have a pile of letters you extracted from your ragged sack. You must connect the islands by forming Scrabble-style bridge of meaningful words that exist in the dictionary.
+
+Once you drag the letters onto the screen, you must click the Freeze button to freeze the word on water. If the freeze is a success, the letters get attached to the island permanently. Else, the blocks return back to the pile.
+
+Each word earns you gold, which depends on the length of the word you make and the letters you use. For instance, larger words earn a multiplier, and using scarce letters like Q and X adds up 10 gold coins to your money. You can later use this money to buy items from the Blue Penguin’s shop located at various locations throughout the adventure. The items you buy go to your inventory, and make your job easier when used. Bonus items can also be found all over the place that may require extra effort to get.
+  </description>
+
+  <features>
+    <feature>Unique storyline</feature>
+    <feature>Unique gameplay mechanics - word making + adventure</feature>
+    <feature>Mesmerizing landscapes and art style</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Trailer</name>
+      <youtube>IfN2iIOurtc</youtube>
+    </trailer>
+  </trailers>
+
+  <credits>
+    <credit>
+      <person>Himanshu Kapoor</person>
+      <role>Writing, Game Design &amp; Programming</role>
+    </credit>
+    <credit>
+      <person>Edo Septiyan Putra</person>
+      <role>Art &amp; Illustration</role>
+    </credit>
+    <credit>
+      <person>Wandi Julham</person>
+      <role>Art &amp; Illustration</role>
+    </credit>
+    <credit>
+      <person>Megan Randa</person>
+      <role>Music</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries &amp; Support</name>
+      <mail>info@fleon.org</mail>
+    </contact>
+  </contacts>
+</product>
