@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Huerons</title>
+
+  <website>https://hashstash.in/project/huerons</website>
+
+  <release-dates>
+    <release-date>2014</release-date>
+  </release-dates>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>iOS</name>
+    </platform>
+    <platform>
+      <name>Android</name>
+      <link>https://apkpure.com/huerons/com.bulkypix.huerons</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>
+    Huerons is a new and fresh, addictive puzzle game based in the same flat and minimalistic design philosophy like iOS8. It has elegantly, hand-crafted 100 puzzles around 9 unique Huerons, which behave differently bringing an element of puzzle, strategy, surprise and joy to the game. The puzzles are easy to learn and difficult to master. It will keep you busy during your trips, breaks, meetings, and any time when you are looking for a quiet moment. Huerons are tiny colored circle. They merge together into one, when you tap on an empty cell next to them. The puzzle is solved when only one Hueron is left on the board. Made with Infinite Eurekas and Hashstash. Published by Bulkypix.
+  </description>
+
+  <features>
+    <feature>A fresh and new puzzle experience</feature>
+    <feature>Simple and addictive gameplay</feature>
+    <feature>Teasingly difficult, infuriatingly fun puzzles</feature>
+    <feature>100 elegant and hand crafted puzzles (more planned as free updates)</feature>
+    <feature>Flat and minimalistic design</feature>
+    <feature>Includes a color-blind friendly mode</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Official Release Trailer</name>
+      <youtube>1w3GkFMNHZY</youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>Best Strategy Game</description>
+      <info>Blackberry GameOn Contest (India)</info>
+    </award>
+  </awards>
+
+  <credits>
+    <credit>
+      <person>Mudit Jaju</person>
+      <role>Game Design &amp; Programming</role>
+    </credit>
+    <credit>
+      <person>Himanshu Kapoor</person>
+      <role>Art &amp; UI Design</role>
+    </credit>
+    <credit>
+      <person>Kinshuk Sunil</person>
+      <role>Marketing &amp; Outreach</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries &amp; Support</name>
+      <mail>info@fleon.org</mail>
+    </contact>
+  </contacts>
+</product>
