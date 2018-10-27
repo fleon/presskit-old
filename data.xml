@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Fleon Labs</title>
+  <based-in>Delhi, India</based-in>
+  <founding-date>November, 2017</founding-date>
+  <website>https://himanshukapoor.com</website>
+  <press-contact>
+    info@fleon.org
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics>UA-50820043-4</analytics>
+
+  <phone>+91 8447999178</phone>
+  <address>
+    <line>
+      Pushpanjali Enclave, Pitampura,
+    </line>
+    <line>
+      Delhi,
+    </line>
+    <line>
+      India
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter - @fleonus</name>
+      <link>https://twitter.com/fleonus</link>
+    </social>
+    <social>
+      <name>Facebook - @FleonLabs</name>
+      <link>https://facebook.com/fleonlabs</link>
+    </social>
+    <social>
+      <name>Skype - nullbite</name>
+      <link>skype:nullbite</link>
+    </social>
+  </socials>
+
+  <description>
+    Fleon Labs is a one-man indie game studio based in Delhi, India and also a pseudonym for me (Himanshu). I collaborate with various talented people from all over the world and make unique games for niche audiences. The term "Fleon" was coined as a tribute of love for Adobe's Flash platform and games made using it. "Fleon" means "Flash will live for eons", but unfortunately Flash isn't alive anymore. But my inspiriation from Flash remains and I will continue to make games using that inspiration.
+  </description>
+
+  <!-- Choose between a single block: -->
+
+  <!-- Or multiple blocks: -->
+
+  <histories>
+    <history>
+      <header>The Beginnings (2009-10)</header>
+      <text>
+        I began making games for Adobe's Flash platform back in 2009. Upon discovering the world of Flash game sponsorships, I started making games with the goal of getting the game published on some of the popular web portals like Kongregate, Armor Games, Crazy Monkey Games and the likes. I had some luck getting non-exclusive licenses for some games.
+      </text>
+    </history>
+    <history>
+      <header>Going Mobile (2011-13)</header>
+      <text>
+        Looking at the release of the App Store on the iPhone and the iPad, I saw potential in the new markets and began working on a new game called Spellbound: a word making adventure game. It was a first ambitious project I ever worked on, which unfortunately didn't recieve so well with the players. Also, it spent a long time in development. Eventually it was shelved to make way for better projects that clicked well with the audiences.
+      </text>
+    </history>
+    <history>
+      <header>Puzzle Games (2014-16)</header>
+      <text>
+        I spent some time making puzzle game prototypes. These include Huerons, Equilor and Constello. Huerons was released in 2015 (published by BulkyPix) and went on to win a few awards and features on the App Store. Equilor and Constello weren't well recieved with the audiences as engaging puzzles and thereby failed as prototypes.
+      </text>
+    </history>
+    <history>
+      <header>Playtesting First (2017-now)</header>
+      <text>
+        Taking my learnings from the previous mild successes and mostly failures, I changed my game design strategy to "Playtesting First". It simply means that I would not begin coding or doing any art for the game until the paper prototype was proven to be fun.
+
+        With Sheeping Around, I began it as a paper prototype by writing stuff on the back of old visiting cards. This simple approach will help me move fast and not spend a lot of time working with ideas that could potentially fail because of not being fun and engaging from the very start.
+      </text>
+    </history>
+  </histories>
+
+  <trailers>
+    <trailer>
+      <name>Sheeping Around - Gameplay</name>
+      <youtube>gDZELjx-Oqw</youtube>
+    </trailer>
+    <trailer>
+      <name>Spellbound Trailer - iPad</name>
+      <youtube>IfN2iIOurtc</youtube>
+    </trailer>
+    <trailer>
+      <name>Huerons Release Trailer</name>
+      <youtube>1w3GkFMNHZY</youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>Spellbound - Selected for Showcase</description>
+      <info>- Casual Connect USA, 2015</info>
+    </award>
+    <award>
+      <description>Huerons - Best Strategy Game</description>
+      <info>- Blackberry GameOn Contest (India), 2014</info>
+    </award>
+    <award>
+      <description>Spellbound - Selected for Showcase</description>
+      <info>- Casual Connect Asia, 2014</info>
+    </award>
+    <award>
+      <description>Huerons - Selected for Showcase</description>
+      <info>- Casual Connect Asia, 2014</info>
+    </award>
+    <award>
+      <description>Spellbound - Selected for Showcase</description>
+      <info>- Casual Connect USA, 2014</info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description>Himanshu Kapoor Has A Passion For Games</description>
+      <name>Catherine Quinton</name>
+      <website>GameSauce</website>
+      <link>http://www.gamesauce.biz/2014/05/21/himanshu-kapoor-has-a-passion-for-games-casual-connect-video/</link>
+    </quote>
+  </quotes>
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Himanshu Kapoor</person>
+      <role>Game Designer &amp; Programmer</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries &amp; Support</name>
+      <mail>info@fleon.org</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/fleonus</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>https://himanshukapoor.com</link>
+    </contact>
+  </contacts>
+</company>
