@@ -5,7 +5,7 @@
   <website>https://sheepingaround.com</website>
 
   <release-dates>
-    <release-date>Q1, 2019</release-date>
+    <release-date>January, 2019</release-date>
   </release-dates>
 
   <!-- Link to request press copy: -->
@@ -13,23 +13,19 @@
 
   <platforms>
     <platform>
-      <name>iOS (Coming Soon)</name>
-      <link></link>
-    </platform>
-    <platform>
-      <name>Android (Coming Soon)</name>
-      <link></link>
+      <name>iOS</name>
+      <link>https://itunes.apple.com/us/app/sheeping-around/id1369538992</link>
     </platform>
   </platforms>
 
   <prices>
     <price>
-      <value>Free</value>
+      <value>USD $4.99</value>
     </price>
   </prices>
 
   <description>
-    Sheeping Around is a multiplayer (1v1) card dueling game about grazing (and stealing) sheep. There's three sheep on the board, and one of the players is the Shepherd and the other is a Thief. As a shepherd attach graze cards to sheep to graze, and when you're done, use "Whistle" to take them home. As a thief, attach lure cards to sheep to lure them and when they're lured, steal them away. The first person to get two sheep wins. But the tricky part is all the other cards that make your opponents' lives harder. You can lay traps, guard sheep, reduce graze / lure values and use special bonus cards to your advantage. Every game you win gives you experience and coins, which count towards your level and allow you to purchase better cards. But as you level up, the opponents get stronger too. (The game automatically matches you with another player with similar experience.) Add deck-building and card collection, and you get the basic elements of a CCG. All in all, an exciting game that will make you ask your friends, “Will you sheep with me?"
+    Sheeping Around is a multiplayer (1v1) card strategy game about grazing (and stealing) sheep. There's three sheep on the board, and one of the players is the Shepherd and the other is a Thief. As a shepherd attach graze cards to sheep to graze, and when you're done, use "Whistle" to take them home. As a thief, attach lure cards to sheep to lure them and when they're lured, steal them away. The first person to get two sheep wins. But the tricky part is all the other cards that make your opponents' lives harder. You can lay traps, guard sheep, reduce graze / lure values and use special bonus cards to your advantage. Every game you win gives you experience and coins, which count towards your level and allow you to purchase better cards. But as you level up, the opponents get stronger too. (The game automatically matches you with another player with similar experience.) Add deck-building and card collection, and you get the basic elements of a CCG. All in all, an exciting game that will make you ask your friends, “Will you sheep with me?"
   </description>
 
   <histories>
@@ -48,15 +44,10 @@
   </histories>
 
   <features>
-    <feature>Play as Shepherd or Thief</feature>
-    <feature>Smart multiplayer match-making</feature>
-    <feature>Level based progression</feature>
-    <feature>New cards unlock at every level</feature>
-    <feature>Marketplace of cards to buy</feature>
-    <feature>Customize your deck as you progress</feature>
-    <feature>Challenge your friends</feature>
-    <feature>Recruit special characters (allies)</feature>
-    <feature>Leaderboards and achievements</feature>
+    <feature>Unique, never-seen-before gameplay mechanics in a tragicomic setting.</feature>
+    <feature>Quick 5-10 minute matches: Play on your commute or on the loo!</feature>
+    <feature>Smart multiplayer match-making with level based progression.</feature>
+    <feature>Challenge your friends and ask them to "sheep" with you!</feature>
   </features>
 
   <trailers>
